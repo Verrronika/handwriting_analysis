@@ -1,16 +1,24 @@
-<!-- # handwriting_analysis[Презентация.pdf](Презентация.pdf) -->
-
-<!-- <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3> -->
-
-<!-- <embed src="Презентация.pdf" type="application/pdf" width="100%" height="800px"/> -->
-
-<!--  ![](Картинки презентации/Презентация_page-0001.jpg) -->
-<!-- ![alt text](Картинки презентации/Презентация_page-0001.jpg) -->
 <a href="Картинки презентации/Презентация_page-0001.jpg" />
 <img src="Картинки презентации/Презентация_page-0001.jpg" />
 <a href="Картинки презентации/Презентация_page-0002.jpg" />
 <img src="Картинки презентации/Презентация_page-0002.jpg" />
 <a href="Картинки презентации/Презентация_page-0003.jpg" />
 <img src="Картинки презентации/Презентация_page-0003.jpg" />
+<a href="Картинки презентации/Презентация_page-0004.jpg" />
+<img src="Картинки презентации/Презентация_page-0004.jpg" />
+<a href="Картинки презентации/Презентация_page-0005.jpg" />
+<img src="Картинки презентации/Презентация_page-0005.jpg" />
+<a href="Картинки презентации/Презентация_page-0006.jpg" />
+<img src="Картинки презентации/Презентация_page-0006.jpg" />
+<a href="Картинки презентации/Презентация_page-0007.jpg" />
+<img src="Картинки презентации/Презентация_page-0007.jpg" />
+<a href="Картинки презентации/Презентация_page-0008.jpg" />
+<img src="Картинки презентации/Презентация_page-0008.jpg" />
+<a href="Картинки презентации/Презентация_page-0009.jpg" />
+<img src="Картинки презентации/Презентация_page-0009.jpg" />
+<a href="Картинки презентации/Презентация_page-00010.jpg" />
+<img src="Картинки презентации/Презентация_page-00010.jpg" />
+<a href="Картинки презентации/Презентация_page-0005.jpg" />
+<img src="Картинки презентации/Презентация_page-0005.jpg" />
+<a href="Картинки презентации/Презентация_page-0006.jpg" />
+<img src="Картинки презентации/Презентация_page-0006.jpg" />
