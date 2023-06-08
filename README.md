@@ -7,4 +7,4 @@
 <!-- <embed src="Презентация.pdf" type="application/pdf" width="100%" height="800px"/> -->
 
  ![](Картинки презентации/Презентация_page-0001.jpg)
-![alt text](Презентация_page-0001.jpg)
+![alt text](Картинки презентации/Презентация_page-0001.jpg)
