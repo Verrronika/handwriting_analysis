@@ -4,4 +4,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
-<embed src="Презентация.pdf" type="application/pdf" width="100%" height="800px"/>
+<!-- <embed src="Презентация.pdf" type="application/pdf" width="100%" height="800px"/> -->
+
+ ![](Картинки презентации/Презентация_page-0001.jpg)
